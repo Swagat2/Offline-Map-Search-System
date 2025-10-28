@@ -1,0 +1,29 @@
+# Format: PlaceName | Category | Latitude | Longitude
+
+City Hospital | Hospital | 20.2961 | 85.8245
+AIIMS Bhubaneswar | Hospital | 20.2443 | 85.8189
+KIMS Hospital | Hospital | 20.3032 | 85.8178
+
+Cambridge Institute of Technology | Education | 20.2601 | 85.8405
+Utkal University | Education | 20.2724 | 85.8333
+KIIT University | Education | 20.3550 | 85.8173
+
+Bhubaneswar Railway Station | Transport | 20.2674 | 85.8431
+Biju Patnaik International Airport | Transport | 20.2521 | 85.8170
+Baramunda Bus Stand | Transport | 20.2725 | 85.7863
+
+Esplanade One Mall | Shopping | 20.2633 | 85.8530
+DN Regalia Mall | Shopping | 20.2555 | 85.7890
+Forum Mart | Shopping | 20.2900 | 85.8412
+
+Mayfair Lagoon | Hotel | 20.2956 | 85.8202
+Trident Hotel | Hotel | 20.2943 | 85.8171
+Swosti Premium | Hotel | 20.2945 | 85.8160
+
+Lingaraj Temple | Tourist | 20.2387 | 85.8330
+Nandankanan Zoo | Tourist | 20.3952 | 85.8238
+Ekamra Kanan Botanical Garden | Tourist | 20.2905 | 85.8124
+
+Domino's Pizza | Restaurant | 20.2950 | 85.8220
+Barbeque Nation | Restaurant | 20.2898 | 85.8245
+CCD Jaydev Vihar | Cafe | 20.2940 | 85.8182
